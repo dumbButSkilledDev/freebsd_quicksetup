@@ -44,3 +44,4 @@ pkg install $luserland
 
 echo "[INFO] installation complete."
 echo "[INFO] created by dumbbutskilleddev on github"
+echo "[INFO] you must run pw groupmod video -m (username) for root and your main account. or nothing will work."
